@@ -1,0 +1,133 @@
+{
+  "keyboards": [
+    {
+      "id": 1,
+      "title": "RGB keyboard",
+      "previewText": "Клавиатура Ducky размером 60% от стандартной клавиатуры с переключателями HyperX.",
+      "detailText": "Клавиатура Ducky размером 60% от стандартной клавиатуры с переключателями HyperX. Клавиатура Ducky размером 60% от стандартной клавиатуры с переключателями HyperX. Клавиатура Ducky размером 60% от стандартной клавиатуры с переключателями HyperX.",
+      "price": 119,
+      "detailImage": "https://media.kingston.com/hyperx/product/hx-product-keyboard-alloy-origins-core-ru-1-lg.jpg",
+      "detailImages": [
+        "https://media.kingston.com/hyperx/product/hx-product-keyboard-alloy-origins-core-ru-1-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-keyboard-alloy-origins-core-ru-2-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-keyboard-alloy-origins-core-ru-3-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-keyboard-alloy-origins-core-ru-4-lg.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "RGB Mechanic keyboard",
+      "previewText": "Клавиатура без цифрового блока, оснащенная специально разработанными механическими переключателями HyperX.",
+      "detailText": "Клавиатура без цифрового блока, оснащенная специально разработанными механическими переключателями HyperX. Клавиатура без цифрового блока, оснащенная специально разработанными механическими переключателями HyperX. Клавиатура без цифрового блока, оснащенная специально разработанными механическими переключателями HyperX.",
+      "price": 130,
+      "detailImage": "https://media.kingston.com/hyperx/product/hx-product-keyboard-alloy-fps-rgb-hxkb1ss2ru-1-lg.jpg",
+      "detailImages": [
+        "https://media.kingston.com/hyperx/product/hx-product-keyboard-alloy-fps-rgb-hxkb1ss2ru-1-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-keyboard-alloy-fps-rgb-ru-2-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-keyboard-alloy-fps-rgb-ru-3-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-keyboard-alloy-origins-core-ru-6-lg.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "RGB Mech PRO",
+      "previewText": "Компактная клавиатура, оснащенная специально разработанными механическими переключателями HyperX.",
+      "detailText": "Компактная клавиатура, оснащенная специально разработанными механическими переключателями HyperX. Компактная клавиатура, оснащенная специально разработанными механическими переключателями HyperX. Компактная клавиатура, оснащенная специально разработанными механическими переключателями HyperX. Компактная клавиатура, оснащенная специально разработанными механическими переключателями HyperX.",
+      "price": 210,
+      "detailImage": "https://media.kingston.com/hyperx/product/hx-product-keyboard-alloy-core-rgb-hxkb5me2ru-1-lg.jpg",
+      "detailImages": [
+        "https://media.kingston.com/hyperx/product/hx-product-keyboard-alloy-core-rgb-hxkb5me2ru-1-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-keyboard-alloy-core-rgb-2-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-keyboard-alloy-core-rgb-3-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-keyboard-alloy-origins-core-ru-6-lg.jpg"
+      ]
+    }
+  ],
+  "headsets": [
+    {
+      "id": 1,
+      "title": "HyperX Cloud Stinger Core",
+      "previewText": "Готова к игре: Беспроводная и с объемным звуком 7.1",
+      "detailText": "Готова к игре: Беспроводная и с объемным звуком 7.1Готова к игре: Беспроводная и с объемным звуком 7.1Готова к игре: Беспроводная и с объемным звуком 7.1Готова к игре: Беспроводная и с объемным звуком 7.1Готова к игре: Беспроводная и с объемным звуком 7.1Готова к игре: Беспроводная и с объемным звуком 7.1",
+      "price": 80,
+      "detailImage": "https://media.kingston.com/hyperx/product/hx-product-headset-cloud-alpha-s-1-lg.jpg",
+      "detailImages": [
+        "https://media.kingston.com/hyperx/product/hx-product-headset-cloud-alpha-s-1-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-headset-cloud-alpha-s-2-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-headset-cloud-alpha-s-3-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-headset-cloud-alpha-s-9-lg.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Cloud Alpha S",
+      "previewText": "Эволюционировал с объемным звуком и регулируемым басом.",
+      "detailText": "Эволюционировал с объемным звуком и регулируемым басом.Эволюционировал с объемным звуком и регулируемым басом.Эволюционировал с объемным звуком и регулируемым басом.Эволюционировал с объемным звуком и регулируемым басом.Эволюционировал с объемным звуком и регулируемым басом.Эволюционировал с объемным звуком и регулируемым басом.Эволюционировал с объемным звуком и регулируемым басом.Эволюционировал с объемным звуком и регулируемым басом.",
+      "price": 78,
+      "detailImage": "https://media.kingston.com/hyperx/product/hx-product-headset-cloud-mix-hxhscamgm-1-lg.jpg",
+      "detailImages": [
+        "https://media.kingston.com/hyperx/product/hx-product-headset-cloud-mix-hxhscamgm-1-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-headset-cloud-mix-2-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-headset-cloud-mix-3-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-headset-cloud-mix-4-lg.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "CloudX Flight",
+      "previewText": "Надежная беспроводная гарнитура с длительным временем работы без подзарядки.",
+      "detailText": "Надежная беспроводная гарнитура с длительным временем работы без подзарядки.Надежная беспроводная гарнитура с длительным временем работы без подзарядки.Надежная беспроводная гарнитура с длительным временем работы без подзарядки.Надежная беспроводная гарнитура с длительным временем работы без подзарядки.Надежная беспроводная гарнитура с длительным временем работы без подзарядки.Надежная беспроводная гарнитура с длительным временем работы без подзарядки.",
+      "price": 130,
+      "detailImage": "https://media.kingston.com/hyperx/product/hx-product-headset-cloudx-flight-1-lg.jpg",
+      "detailImages": [
+        "https://media.kingston.com/hyperx/product/hx-product-headset-cloudx-flight-1-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-headset-cloudx-flight-2-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-headset-cloudx-flight-3-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-headset-cloudx-flight-8-lg.jpg"
+      ]
+    }
+  ],
+  "mouses": [
+    {
+      "id": 1,
+      "title": "Pulsefire Raid",
+      "previewText": "Правь на поле битвы с этой легкой программируемой 11-кнопочной мышью.",
+      "detailText": "Правь на поле битвы с этой легкой программируемой 11-кнопочной мышью.Правь на поле битвы с этой легкой программируемой 11-кнопочной мышью.Правь на поле битвы с этой легкой программируемой 11-кнопочной мышью.Правь на поле битвы с этой легкой программируемой 11-кнопочной мышью.Правь на поле битвы с этой легкой программируемой 11-кнопочной мышью.Правь на поле битвы с этой легкой программируемой 11-кнопочной мышью.",
+      "price": 50,
+      "detailImage": "https://media.kingston.com/hyperx/product/hx-product-mouse-pulsefire-raid-1-lg.jpg",
+      "detailImages": [
+        "https://media.kingston.com/hyperx/product/hx-product-mouse-pulsefire-raid-1-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-mouse-pulsefire-raid-2-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-mouse-pulsefire-raid-3-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-mouse-pulsefire-raid-5-lg.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Pulsefire Dart",
+      "previewText": "Высочайшая точность и полная свобода без проводов.",
+      "detailText": "HyperX Pulsefire Dart™ — это геймерская беспроводная мышь с надежным RF-подключением на частоте 2,4 ГГц, которая заставит вас сожалеть о том, что так долго не могли отказаться от проводов. Включенный в комплект беспроводной адаптер расширяет радиус охвата для настольных систем ПК. Устройство имеет маркировку Qi для беспроводной зарядки1 и может работать до 50 часов2 без подзарядки. Сенсор Pixart 3389 и конструкция с раздельными кнопками, содержащая надежные переключатели Omron, обеспечат нужную точность в схватках с соперниками. Эргономичная форма и мягкие боковые накладки из искусственной кожи обеспечат комфорт в течение долгих ночей, проведенных за игрой. Настраивайте RGB-подсветку, создавайте макросы, управляйте временем работы от батареи и изменяйте настройки DPI с помощью удобного ПО HyperX NGENUITY.",
+      "price": 60,
+      "detailImage": "https://media.kingston.com/hyperx/product/hx-product-mouse-pulsefire-dart-1-lg.jpg",
+      "detailImages": [
+        "https://media.kingston.com/hyperx/product/hx-product-mouse-pulsefire-dart-1-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-mouse-pulsefire-dart-3-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-mouse-pulsefire-dart-4-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-mouse-pulsefire-dart-9-lg.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pulsefire FPS Pro",
+      "previewText": "Мышь, специально созданная для шутеров от первого лица, которая имеет современный яркий внешний вид и обеспечивает исключительную скорость и точность управления.",
+      "detailText": "Игроки профессионального уровня знают, что если вы не будете совершенствоваться, то проиграете тем, кто работает над собой, и это также касается оборудования, которое используют игроки. Выберите геймерскую мышь HyperX Pulsefire FPS Pro, чтобы подчеркнуть оригинальный внешний вид вашей системы с помощью RGB-подсветки и добиться идеальной точности выстрелов по тем, кто опрометчиво окажется вблизи вас. В мыши HyperX Pulsefire FPS Pro используется датчик Pixart 3389 без аппаратного ускорения с разрешением до 16 000 DPI, что обеспечивает максимальную точность, чтобы вы всегда поражали цели раньше соперников. Эргономичный дизайн обеспечивает удобный захват рукой и исключает выскальзывание мыши из рук, когда на кону победа. Вы можете настроить свою мышь так, как вам нужно, с помощью шести программируемых кнопок в удобном ПО HyperX NGenuity, а также сохранить свою конфигурацию непосредственно во встроенной памяти.",
+      "price": 78,
+      "detailImage": "https://media.kingston.com/hyperx/product/hx-product-mouse-pulsefire-fps-pro-hxmc003b-1-lg.jpg",
+      "detailImages": [
+        "https://media.kingston.com/hyperx/product/hx-product-mouse-pulsefire-fps-pro-hxmc003b-1-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-mouse-pulsefire-fps-pro-2-lg.jpg",
+        "https://media.kingston.com/hyperx/product/hx-product-mouse-pulsefire-fps-pro-3-lg.jpg"
+      ]
+    }
+  ]
+}
