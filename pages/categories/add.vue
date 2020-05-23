@@ -35,7 +35,7 @@ export default {
 
 <style scoped lang="scss">
 .container {
-  height: 760px;
+  height: 100vh;
 }
 .add {
   &__title {

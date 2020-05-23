@@ -37,7 +37,7 @@ export default {
 
 <style scoped lang="scss">
 .container {
-  height: 750px;
+  height: 100vh;
 }
 form {
   text-align: center;
