@@ -53,6 +53,9 @@ export default {
 </script>
 
 <style scoped lang="scss">
+.container {
+  height: 100vh;
+}
   .headset {
     display: flex;
     justify-content: space-between;
