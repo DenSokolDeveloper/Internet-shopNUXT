@@ -144,7 +144,7 @@ ul {
 }
 .footer {
   background: linear-gradient(to bottom, #454545,#000000);
-  height: 548px;
+  height: 350px;
   width: 100%;
   &-content {
     padding-top: 30px;

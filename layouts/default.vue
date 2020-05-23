@@ -17,6 +17,6 @@ export default {
   margin-top: 44px;
 }
 .pages {
-  padding-bottom: 20px;
+  height: 100%;
 }
 </style>

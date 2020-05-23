@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="content">
     <section class="main mt-100">
       <div class="container mt-100">
         <div class="main-info">
@@ -112,7 +112,7 @@ export default {
   }
 }
 .categories {
-  margin: 10px 10px 0 10px;
+  margin: 10px;
   &-list {
     list-style: none;
     display: flex;

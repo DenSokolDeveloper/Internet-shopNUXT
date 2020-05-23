@@ -34,6 +34,9 @@ export default {
 </script>
 
 <style scoped lang="scss">
+.container {
+  height: 760px;
+}
 .add {
   &__title {
     font-weight: 800;
