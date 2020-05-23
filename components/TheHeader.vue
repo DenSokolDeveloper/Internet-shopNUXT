@@ -22,7 +22,7 @@
             </li>
             <li class="list__item">
               <n-link class="list__item-link" :to="{ name: 'about'}" exact exact-active-class="active">
-                About
+                About us
               </n-link>
             </li>
           </ul>

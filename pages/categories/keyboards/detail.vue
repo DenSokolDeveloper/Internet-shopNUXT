@@ -25,9 +25,9 @@
         <div class="keyboard-info__price">
           {{ keyboard.price }}$
         </div>
-        <button class="btn keyboard-info__btn">
+        <n-link :to="{ name: 'cart' }" class="btn keyboard-info__btn">
           Buy now
-        </button>
+        </n-link>
       </div>
     </div>
   </div>
